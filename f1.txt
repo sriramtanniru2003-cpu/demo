@@ -1,0 +1,4 @@
+hello,this is file f1
+
+
+later on i have pulled from remote to local 
